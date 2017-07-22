@@ -1,4 +1,22 @@
 .panel-primary>.panel-heading {
-  background-color: #101010;
-  border-color: #101010;
+  background-color: #005ce6;
+  border-color: #005ce6;
+  font-size: 18px;
+}
+.panel-body>ul>li {
+ font-size: 15px;
+}
+.navbar-inverse {
+    background-color: #005ce6;
+    border-color: #005ce6;
+}
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+}
+#map {
+    height: 225px;
+    width: 360px;
 }
